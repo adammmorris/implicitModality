@@ -10,7 +10,7 @@
 rm(list=ls())
 
 #set working directory
-setwd("C:/Users/Jonathan/Dropbox/implicitModality/implicitModality")
+setwd("C:/Users/Jphil/Dropbox/implicitModality")
 
 ##load packages, functions, etc.
 require(optimx)
@@ -266,9 +266,6 @@ fig1b <- ggplot(d1b.sum1, aes(x=subjectGroup, y=mean, fill=subjectGroup)) +
 
 print(fig1b)
 
-# pdf("figs/fig1b.pdf",width=9.5,height=8)
-# plot(fig1b)
-# dev.off()
 
 ## Ordinary Events
 ### probability
