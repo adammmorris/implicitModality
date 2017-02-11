@@ -1,9 +1,10 @@
-####                      Info:                          ####
-####   Authors: Phillips, J. & Cushman, F.                ###
-####                                                      ###
-####   Title: Implicit modal cognition                    ###
-####                                                      ###
-####   Contact: phillips01@g.harvard.edu                  ###
+####                      Info:                             ####
+####   Authors: Phillips, J. & Cushman, F.                   ###
+####                                                         ###
+####   Title: Morality constrains default representations    ###
+####            of possibility                               ###
+####                                                         ###
+####   Contact: phillips01@g.harvard.edu                     ###
 
 #### setup and data ####
 rm(list=ls())
