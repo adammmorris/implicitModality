@@ -1,0 +1,184 @@
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{10}
+
+\bibitem{lewis2013counterfactuals}
+Lewis D (1973) {\em Counterfactuals}.
+\newblock (John Wiley \& Sons).
+
+\bibitem{pearl2009causality}
+Pearl J (2009) {\em Causality}.
+\newblock (Cambridge university press).
+
+\bibitem{gerstenberg2016theories}
+Gerstenberg T, Tenenbaum JB ({in press}) Intuitive theories in {\em Oxford
+  Handbook of Causal Reasoning}, ed.{} Waldmannn M.
+\newblock (Oxford University Press).
+
+\bibitem{kane2011oxford}
+Kane R, ed. (2011) {\em The Oxford handbook of free will}.
+\newblock (Oxford University Press).
+
+\bibitem{hart1985causation}
+Hart HLA, Honor{\'e} T (1985) {\em Causation in the Law}.
+\newblock (Oxford University Press).
+
+\bibitem{lagnado2013causal}
+Lagnado DA, Gerstenberg T, Zultan R (2013) Causal responsibility and
+  counterfactuals.
+\newblock {\em Cognitive Science} 47:1036--1073.
+
+\bibitem{portner2009modality}
+Portner P (2009) {\em Modality}.
+\newblock (OUP Oxford).
+
+\bibitem{kratzer2012modals}
+Kratzer A (2012) {\em Modals and conditionals: New and revised perspectives}.
+\newblock (Oxford University Press) Vol.{}~36.
+
+\bibitem{stalnaker2002common}
+Stalnaker R (2002) Common ground.
+\newblock {\em Linguistics and philosophy} 25(5):701--721.
+
+\bibitem{phillips2015unifying}
+Phillips J, Luguri J, Knobe J (2015) Unifying morality’s influence on
+  non-moral judgments: The relevance of alternative possibilities.
+\newblock {\em Cognition} 145:30--42.
+
+\bibitem{byrne2016counterfactual}
+Byrne RM (2016) Counterfactual thought: From conditional reasoning to moral
+  judgment.
+\newblock {\em Annual review of psychology} 67(1).
+
+\bibitem{shtulman2013cognitive}
+Shtulman A, Tong L (2013) Cognitive parallels between moral judgment and modal
+  judgment.
+\newblock {\em Psychonomic bulletin \& review} 20(6):1327--1335.
+
+\bibitem{schacter2015episodic}
+Schacter DL, Benoit RG, De~Brigard F, Szpunar KK (2015) Episodic future
+  thinking and episodic counterfactual thinking: Intersections between memory
+  and decisions.
+\newblock {\em Neurobiology of learning and memory} 117:14--21.
+
+\bibitem{de2015neural}
+De~Brigard F, Spreng RN, Mitchell JP, Schacter DL (2015) Neural activity
+  associated with self, other, and object-based counterfactual thinking.
+\newblock {\em NeuroImage} 109:12--26.
+
+\bibitem{hamlin2007social}
+Hamlin JK, Wynn K, Bloom P (2007) Social evaluation by preverbal infants.
+\newblock {\em Nature} 450(7169):557--559.
+
+\bibitem{buon2013non}
+Buon M, Jacob P, Loissel E, Dupoux E (2013) A non-mentalistic cause-based
+  heuristic in human social evaluations.
+\newblock {\em Cognition} 126(2):149--155.
+
+\bibitem{mandel1996counterfactual}
+Mandel DR, Lehman DR (1996) Counterfactual thinking and ascriptions of cause
+  and preventability.
+\newblock {\em Journal of personality and social psychology} 71(3):450.
+
+\bibitem{phillips2016do}
+Phillips J, Bloom P (2016) Do children believe immoral events are impossible?
+\newblock under revision.
+
+\bibitem{shtulman2016differentiating}
+Shtulman A, Phillips J (2016) Differentiating \textit{Could} from
+  \textit{Should}: Developmental changes in modal cognition.
+\newblock under revision.
+
+\bibitem{browne2004preschoolers}
+Browne CA, Woolley JD (2004) Preschoolers' magical explanations for violations
+  of physical, social, and mental laws.
+\newblock {\em Journal of Cognition and Development} 5(2):239--260.
+
+\bibitem{kalish1998reasons}
+Kalish C (1998) Reasons and causes: Children's understanding of conformity to
+  social rules and physical laws.
+\newblock {\em Child development} 69(3):706--720.
+
+\bibitem{kushnir2015developing}
+Kushnir T, Gopnik A, Chernyak N, Seiver E, Wellman HM (2015) Developing
+  intuitions about free will between ages four and six.
+\newblock {\em Cognition} 138:79--101.
+
+\bibitem{shtulman2009development}
+Shtulman A (2009) The development of possibility judgment within and across
+  domains.
+\newblock {\em Cognitive Development} 24(3):293--309.
+
+\bibitem{shtulman2007improbable}
+Shtulman A, Carey S (2007) Improbable or impossible? how children reason about
+  the possibility of extraordinary events.
+\newblock {\em Child Development} 78(3):1015--1032.
+
+\bibitem{halpern2015graded}
+Halpern JY, Hitchcock C (2015) Graded causation and defaults.
+\newblock {\em The British Journal for the Philosophy of Science}
+  66(2):413--457.
+
+\bibitem{kominsky2015causal}
+Kominsky JF, Phillips J, Gerstenberg T, Lagnado D, Knobe J (2015) Causal
+  superseding.
+\newblock {\em Cognition} 137:196--209.
+
+\bibitem{knobe2013modals}
+Knobe J, Szab{\'o} ZG (2013) Modals with a taste of the deontic.
+\newblock {\em Semantics and Pragmatics} 6(1):1--42.
+
+\bibitem{young2011paradox}
+Young L, Phillips J (2011) The paradox of moral focus.
+\newblock {\em Cognition} 119(2):166--178.
+
+\bibitem{Hitchcock2009}
+Hitchcock C, Knobe J (2009) Cause and norm.
+\newblock {\em Journal of Philosophy} 106(11):587--612.
+
+\bibitem{samland2016prescriptive}
+Samland J, Waldmann MR (2016) How prescriptive norms influence causal
+  inferences.
+\newblock {\em Cognition} 156:164--176.
+
+\bibitem{phillips2009moral}
+Phillips J, Knobe J (2009) Moral judgments and intuitions about freedom.
+\newblock {\em Psychological Inquiry} 20(1):30--36.
+
+\bibitem{berlin1970four}
+Berlin I (1970) {\em Four essays on liberty}.
+\newblock (Oxford University Press New York) Vol.{} 969.
+
+\bibitem{rowe2002nicomachean}
+Aristotle (2002) {\em Nicomachean ethics}.
+\newblock (Oxford University Press).
+
+\bibitem{mandlekern2017force}
+Mandlekern M, Phillips J (2017) \textit{Force}: Topicalization,
+  context-sensitivity, and morality.
+\newblock submitted.
+
+\bibitem{ben1995discrete}
+Ben-Akiva M, Boccara B (1995) Discrete choice models with latent choice sets.
+\newblock {\em International Journal of Research in Marketing} 12(1):9--24.
+
+\bibitem{Knobe2003}
+Knobe J (2003) Intentional action in folk psychology: An experimental
+  investigation.
+\newblock {\em Philosophical Psychology} 16(2):309--325.
+
+\bibitem{jaeger2008categorical}
+Jaeger TF (2008) Categorical data analysis: Away from anovas (transformation or
+  not) and towards logit mixed models.
+\newblock {\em Journal of memory and language} 59(4):434--446.
+
+\bibitem{barr2013random}
+Barr DJ, Levy R, Scheepers C, Tily HJ (2013) Random effects structure for
+  confirmatory hypothesis testing: Keep it maximal.
+\newblock {\em Journal of memory and language} 68(3):255--278.
+
+\bibitem{bates2014lme4}
+Bates D, Maechler M, Bolker B, Walker S,  et~al. (2014) lme4: Linear
+  mixed-effects models using eigen and s4.
+\newblock {\em R package version} 1(7).
+
+\end{thebibliography}
