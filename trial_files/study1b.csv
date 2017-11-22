@@ -1,0 +1,130 @@
+type,condition1,trialNo,target,stim1,stim2,stim3,stim4,stim5,key,ITI,presTime,ISI,presTimeS2,stimFormat,title,content,trialText,button1,feedbackIncorrect,feedbackTime,random,keyboard,subjectGroup
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Instructions,"In this study, we'd like you to make judgments about how likely it is that someone would do something. First we'll tell you about the situation.",na,na,na,na,na,na,1
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Background information,"Justin recently realized that he needs $1000 in a few days, but he doesn't have it yet.",na,na,na,na,na,na,1
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Your job in this study will be to answer this question: How likely is that Justin would actually do each thing?,Go to the next page to start seeing different proposals for what Justin could do.,na,na,na,na,na,na,1
+test,possible,1,take out a loan,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,2,use a credit card,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,3,sell something he owns,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,4,use money in savings,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,5,use money he inherited,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,6,borrow money from friends,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,7,ask family for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,8,work overtime for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,9,get an additional job,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,10,make money selling drugs,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,11, earn money from sex,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,12,kill someone for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,13,rob banks for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,14,steal money from stores,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,15,take money from people,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,16,get a paycheck advance,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,improbable,17,win the money gambling,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,improbable,18,fundraise the needed money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,19,pawn something he owns,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,20,borrow against his house,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,improbable,21,beg people for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,22,sell his kidney illegally,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,23,donate blood for payment,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,24,donate sperm for cash,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,improbable,25,find money by luck,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,26,participate in research studies,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,27,cash in an investment,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,possible,28,get a tax refund,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,improbable,29,get help from charity,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,immoral,30,forge his own money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,31,grow money on trees,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,32,make money from wood,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,33,turn bricks into gold,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,34,borrow money from cats,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,35,create money using magic,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,36,make more money yesterday,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,37,make money time travelling,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,38,pay with monopoly money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,39,beg rocks for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+test,impossible,40,make money selling clouds,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,1,na,1
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Instructions,"In this study, we'd like you to make judgments about how immoral it would be for someone would do something. First we'll tell you about the situation.",na,na,na,na,na,na,2
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Background information,"Justin recently realized that he needs $1000 in a few days, but he doesn't have it yet.",na,na,na,na,na,na,2
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,"Your job in this study will be to answer this question: If Justin actually did each thing, how morally wrong would it be?",Go to the next page to start seeing different proposals for what Justin could do.,na,na,na,na,na,na,2
+test,possible,1,take out a loan,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,2,use a credit card,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,3,sell something he owns,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,4,use money in savings,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,5,use money he inherited,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,6,borrow money from friends,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,7,ask family for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,8,work overtime for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,9,get an additional job,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,10,make money selling drugs,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,11, earn money from sex,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,12,kill someone for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,13,rob banks for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,14,steal money from stores,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,15,take money from people,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,16,get a paycheck advance,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,improbable,17,win the money gambling,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,improbable,18,fundraise the needed money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,19,pawn something he owns,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,20,borrow against his house,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,improbable,21,beg people for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,22,sell his kidney illegally,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,23,donate blood for payment,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,24,donate sperm for cash,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,improbable,25,find money by luck,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,26,participate in research studies,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,27,cash in an investment,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,possible,28,get a tax refund,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,improbable,29,get help from charity,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,immoral,30,forge his own money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,31,grow money on trees,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,32,make money from wood,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,33,turn bricks into gold,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,34,borrow money from cats,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,35,create money using magic,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,36,make more money yesterday,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,37,make money time travelling,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,38,pay with monopoly money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,39,beg rocks for money,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+test,impossible,40,make money selling clouds,Totally morally fine,Somewhat morally fine,In between,Somewhat morally wrong,Totally morally wrong,na,600,na,na,na,survey,na,na,na,na,na,na,2,na,2
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Instructions,"In this study, we'd like you to make judgments about how likely it is that someone would get $100 by doing something. First we'll tell you about the situation.",na,na,na,na,na,na,3
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,Background information,"Justin recently realized that he needs $1000 in a few days, but he doesn't have it yet.",na,na,na,na,na,na,3
+instructions,na,na,na,na,na,na,na,na,na,600,na,na,na,na,"Your job in this study will be to answer this question: If Justin actually did each thing, how likely it is that he would get $1000? ",Go to the next page to start seeing different proposals for what Justin could do.,na,na,na,na,na,na,3
+test,possible,1,take out a loan,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,2,use a credit card,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,3,sell something he owns,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,4,use money in savings,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,5,use money he inherited,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,6,borrow money from friends,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,7,ask family for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,8,work overtime for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,9,get an additional job,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,10,make money selling drugs,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,11, earn money from sex,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,12,kill someone for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,13,rob banks for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,14,steal money from stores,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,15,take money from people,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,16,get a paycheck advance,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,improbable,17,win the money gambling,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,improbable,18,fundraise the needed money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,19,pawn something he owns,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,20,borrow against his house,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,improbable,21,beg people for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,22,sell his kidney illegally,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,23,donate blood for payment,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,24,donate sperm for cash,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,improbable,25,find money by luck,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,26,participate in research studies,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,27,cash in an investment,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,possible,28,get a tax refund,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,improbable,29,get help from charity,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,immoral,30,forge his own money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,31,grow money on trees,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,32,make money from wood,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,33,turn bricks into gold,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,34,borrow money from cats,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,35,create money using magic,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,36,make more money yesterday,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,37,make money time travelling,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,38,pay with monopoly money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,39,beg rocks for money,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
+test,impossible,40,make money selling clouds,Very likely,Somewhat likely,In between,Somewhat unlikely,Very unlikely,na,600,na,na,na,survey,na,na,na,na,na,na,3,na,3
