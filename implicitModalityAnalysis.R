@@ -10,8 +10,8 @@
 rm(list=ls())
 
 #set working directory
-setwd("C:/Users/Jphil/Dropbox/implicitModality")
-
+setwd("C:/Users/Jphil/Dropbox/implicitModality/implicitModality")
+  
 ##load packages, functions, etc.
 require(optimx)
 library(ggplot2)
@@ -28,7 +28,7 @@ blackGreyPalette <- c("#2C3539", "#999999")
 substrRight <- function(x, n){
   substr(x, nchar(x)-n+1, nchar(x))
 }
-
+   
 ## load data
 #study 1
 d1a <- read.csv("data/study1possibilityData.csv", stringsAsFactors = F) # Possibility judgments
@@ -363,6 +363,12 @@ cohensD(d1b.sum$avg[d1b.sum$condition1=="irrational" & d1b.sum$subjectGroup=="mo
 
 #### Generalizing across Modal Judgments ####
 
+d2a$turkID <- d2a$turkID + max(d1a$turkID)
+d2b$turkID <- d2b$turkID + max(d2a$turkID)
+d2c$turkID <- d2c$turkID + max(d2b$turkID)
+d2d$turkID <- d2d$turkID + max(d2c$turkID)
+d2e$turkID <- d2e$turkID + max(d2d$turkID)
+
 d2a$modal <- "Ought"
 d2b$modal <- "Might"
 d2c$modal <- "Could"
@@ -441,9 +447,49 @@ fig2 <- ggplot(d2.sum, aes(x=norm, y=mean, fill=norm)) +
 
 print(fig2)
 
+
 # pdf("figs/fig2a.pdf",width=9.5,height=8)
 # plot(fig2a)
 # dev.off()
+
+d2.sum2 <- ddply(d2, c("condition1","condition3","modal"), summarise,
+                 N    = length(responses),
+                 mean = mean(responses, na.rm=TRUE)*100,
+                 sd   = sd(responses,na.rm=TRUE)*100,
+                 se   = sd / sqrt(N) )
+
+d2.sum2$condition3 <- factor(c("Reflective","Speeded")[d2.sum2$condition3])
+d2.sum2$condition1 <- factor(c("Ordinary","Immoral","Improbable","Irrational","Impossible")[d2.sum2$condition1])
+d2.sum2$condition1 <- factor(d2.sum2$condition1,levels=c("Ordinary","Improbable","Impossible","Immoral","Irrational"))
+
+fig1 <- ggplot(d2.sum2[d2.sum2$modal=="Could",], aes(x=condition3, y=mean, fill=condition3)) +
+  geom_bar(position="dodge", stat="identity")  +
+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), width=.1, position=position_dodge(.9)) +
+  facet_grid(~condition1) +
+  scale_fill_manual(values=blackGreyPalette) +
+  ylab("% of Events Judged Impossible") +
+  xlab("") +
+  coord_cartesian(ylim=c(0,90)) +
+  theme_bw() +
+  theme(
+    plot.background = element_blank()
+    ,panel.grid.major = element_blank()
+    ,panel.grid.minor = element_blank()
+    ,legend.title=element_blank()
+    ,legend.position=c(.9,.9)
+    ,legend.text=element_text(size=rel(1.4))
+    ,axis.text.y=element_text(size=rel(1.5))
+    ,axis.text.x=element_blank()
+    ,axis.title.y=element_text(vjust=.9)
+    ,axis.ticks = element_blank()
+    ,strip.text=element_text(size=rel(1.5))
+    ,axis.title=element_text(size=rel(1.5))    
+  )
+
+print(fig1)
+
+
+
 
 ## Possible
 var.test(d2a.sum2$mean[d2a.sum2$modal=="Possible" & d2a.sum2$norm=="Descriptive"],
